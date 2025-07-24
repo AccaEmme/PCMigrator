@@ -1,0 +1,4 @@
+- 🇮🇹 [Leggi in Italiano](./README_ita.md)
+- 🇬🇧 [Read in English](./README_eng.md)
+- 🇫🇷 [Lire en Français](./README_fr.md)
+- 🇩🇪 [Auf Deutsch lesen](./README_de.md)
