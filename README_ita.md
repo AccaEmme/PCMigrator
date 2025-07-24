@@ -4,7 +4,7 @@
 Supporta preferiti, estensioni e password dei browser più comuni, profili Wi-Fi, variabili d'ambiente, programmi installati e file hosts.
 
 ![PowerShell](https://img.shields.io/badge/Built_with-PowerShell-5391FE?logo=powershell&logoColor=white)
-![License](https://img.shields.io/github/license/TUO-USERNAME/PCMigrator)
+![License](https://img.shields.io/github/license/AccaEmme/PCMigrator)
 
 ---
 
